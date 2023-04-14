@@ -1,2 +1,2 @@
-A basic RNN model for generating shakespear like text using pytorch.
+A basic RNN model for generating shakespeare like text using pytorch.
 
